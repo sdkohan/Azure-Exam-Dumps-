@@ -1,8 +1,7 @@
-# Azure-Exam-Dumps-
+# My_PowerShell_Scripts
 
-Here are the Azure Premium Exam Dumps purchased from BrainDumps for AZ-104 and AZ-305 Exams
-
-https://free-braindumps.com/braindumps-catalog.html
+Here are some PowerShell scripts I came across or developed throughout my years working as infrastructure administrator or IT Consultant.... Hope yo can find something useful here.... good luck to you all
 
 
-Enjoy
+
+SDKOHAN
